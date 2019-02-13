@@ -13,6 +13,16 @@ body {
 	background-repeat: no-repeat;
 }
 
+.greeting {
+	position: absolute;
+	top: 62%;
+	left: 33%;
+	color: #fff;
+	font-size: 3em;
+	font-family: "roboto", arial;
+	font-weight: 400;
+}
+
 .time {
 	position: absolute;
 	top: 50%;
@@ -22,6 +32,15 @@ body {
 	font-size: 8em;
 	font-family: "roboto", arial;
 	font-weight: 400;
+}
+
+.focus {
+	color: #fff;
+}
+
+.weather img {
+	max-width: 2%;
+	max-height: 2%;
 }
 
 .quote {
